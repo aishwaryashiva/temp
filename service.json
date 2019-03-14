@@ -1,0 +1,124 @@
+[
+{
+"listingItemType": "Announcement",
+"listingOwner": {
+"OwnerIdentityName": "Avon Tea Promoter Pvt.Ltd",
+"BrandColorHex": "#fff"
+},
+"price": {
+"amount": 20,
+"currency": "INR"
+},
+"productName": "Masla Chai",
+"productDescription": "Masala chai is a flavoured tea beverage made by brewing black tea with a mixture of aromatic spices and herbs.",
+"productBackground": "masalachai.jpg",
+"listingImages": [
+"iphonex",
+"iphonex1"
+],
+"pronouncedFeatures": [
+"128gb",
+"iOS11",
+"Unlocked"
+],
+"listingModels": {
+"modelType": "Color",
+"listingModels": [
+"Black",
+"White",
+"Pink"
+]
+}
+},
+{
+"listingItemType": "Basic",
+"listingOwner": {
+"OwnerIdentityName": "Amazon",
+"BrandColorHex": "#fff"
+},
+"price": {
+"amount": 2399.52,
+"currency": "RDS"
+},
+"productName": "Echo Dot",
+"productDescription": "Echo Dot is a hands-free, voice-controlled device with a small built-in speaker—it can also connect to your speakers or headphones over Bluetooth or through a 3.5 mm audio cable to deliver stereo sound to the speakers you choose. Dot connects to the Alexa Voice Service to play music, provide information, news, sports scores, weather, and more—instantly.",
+"productBackground": "echodot.png",
+"listingImages": [
+"echodot.png",
+"echodot1.png"
+],
+"pronouncedFeatures": [
+"Alexa",
+"AI",
+"SHM"
+],
+"listingModels": {
+"modelType": "Color",
+"listingModels": [
+"White",
+"Black"
+]
+}
+},
+{
+"listingItemType": "Basic",
+"listingOwner": {
+"OwnerIdentityName": "Sony",
+"BrandColorHex": "#fff"
+},
+"price": {
+"amount": 333.44,
+"currency": "EUR"
+},
+"productName": "Playstation 4 Slim",
+"productDescription": "The PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform. The PS4 system enables the greatest game developers in the world to unlock their creativity and push the boundaries of play through a system that is tuned specifically to their needs. The end result is new games with rich, high-fidelity graphics and deeply immersive experiences.",
+"productBackground": "playstation.png",
+"listingImages": [
+"playstation.png",
+"playstation1.png",
+"playstation2.png"
+],
+"pronouncedFeatures": [
+"3TB",
+"PSPlus 1 Year"
+],
+"listingModels": {
+"modelType": "Color",
+"listingModels": [
+"White",
+"Black",
+"Purple"
+]
+}
+},
+{
+"listingItemType": "Basic",
+"listingOwner": {
+"OwnerIdentityName": "Google",
+"BrandColorHex": "#fff"
+},
+"price": {
+"amount": 1149,
+"currency": "USD"
+},
+"productName": "Google Pixel XL",
+"productDescription": "The power of Google, at your fingertips. Every touch, every interaction, every moment — made easy. Pixel brings you the Google Assistant. Ask it questions. Tell it to do things. It's your own personal Google, always ready to help. Just start with “Ok Google”.",
+"productBackground": "pixel2.png",
+"listingImages": [
+"pixel2.png","pixel21.png"
+],
+"pronouncedFeatures": [
+"128gb",
+"5.5in",
+"3450mah"
+],
+"listingModels": {
+"modelType": "Color",
+"listingModels": [
+"White",
+"Black",
+"Purple"
+]
+}
+}
+]
